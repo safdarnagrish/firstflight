@@ -1,0 +1,16 @@
+{
+    "name": "firstflight-travels",
+    "version": "1.0.0",
+    "description": "FirstFlight Travels contact page",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "author": "Mohd. Rahil",
+    "license": "ISC",
+    "dependencies": {
+      "express": "^4.18.2",
+      "body-parser": "^1.19.0"
+    }
+  }
+  
